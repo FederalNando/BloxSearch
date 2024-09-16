@@ -13,10 +13,15 @@ Instructions for Pls Donate:
 2. Input their username in one of these places. The player could be in any of them:
 
 > https://www.roblox.com/games/8737602449/PLS-DONATE
+> 
 > https://www.roblox.com/games/8943844393/PLS-DONATE-Voice-Chat
+> 
 > https://www.roblox.com/games/8943846005/PLS-DONATE-Legacy-Map
+> 
 > https://www.roblox.com/games/18852429314/PLS-DONATE-17
+> 
 > https://www.roblox.com/games/15611066348/PLS-DONATE-Deluxe-Voice-Chat
+> 
 (To prevent the extension being stuck on a search, I suggest searching first in places with less players. This is my suggested order: 1. +17, 2. Deluxe VC, 3. Legacy, 4. VC, 5. Main place)
 
 3. If the player is either in the main place, the legacy map or the +17 place you can just click "Join". If the player was found in VC or Deluxe VC servers you must follow step 4 and 5.
